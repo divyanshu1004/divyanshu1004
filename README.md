@@ -12,14 +12,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building tool
 
 ## 🚀 Projects
 
-- 🎯 **[AI-Based Auto Tagging System](https://github.com/your-username/auto-tagger)** — Automatically tags DSA notes using NLP and Trie.
-- 🌐 **[Personal Portfolio Website](https://github.com/your-username/portfolio)** — A fully responsive portfolio showcasing my work.
-- 📦 **[React Note App](https://github.com/your-username/note-app)** — Lightweight notes app using React and LocalStorage.
+- 🎯 **[AI-Based Auto Tagging System](https://github.com/divyanshu1004/auto-tagger)** — Automatically tags DSA notes using NLP and Trie.
+- 🌐 **[Personal Portfolio Website](https://github.com/divyanshu1004/portfolio)** — A fully responsive portfolio showcasing my work.
+- 📦 **[React Note App](https://github.com/divyanshu1004/note-app)** — Lightweight notes app using React and LocalStorage.
 
 ## 📈 GitHub Stats
 
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshu1004&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu1004&layout=compact&theme=tokyonight)
 
 ## 🧠 Currently Learning
 
@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building tool
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🐦 [Twitter](https://twitter.com/your-twitter)  
-- 📬 Email: youremail@example.com  
+- 🐦 [Twitter](https://x.com/divyansh_u01)  
+- 📬 Email: vedi05962@gmail.com  
 
 ---
 
