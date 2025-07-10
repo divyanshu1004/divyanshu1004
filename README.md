@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building tool
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/divyanshu-rawat-a2a327256/)  
 - 🐦 [Twitter](https://x.com/divyansh_u01)  
 - 📬 Email: vedi05962@gmail.com  
 
