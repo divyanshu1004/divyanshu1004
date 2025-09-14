@@ -6,14 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building tool
 
 - 🔹 **Languages:** JavaScript, Python, C++, SQL  
 - 🔹 **Frontend:** React, Tailwind CSS, HTML, CSS  
-- 🔹 **Backend:** Node.js, Express.js, Firebase  
-- 🔹 **Databases:** MongoDB, MySQL  
+- 🔹 **Backend:** Node.js, Next.js 
+- 🔹 **Databases:** MongoDB, MySQL, PostgreSQL
 - 🔹 **Tools & Platforms:** Git, GitHub, VSCode, Linux, Postman  
 
 ## 🚀 Projects
 
 - 🎯 **[AI-Based Auto Tagging System](https://github.com/divyanshu1004/auto-tagger)** — Automatically tags DSA notes using NLP and Trie.
-- 🌐 **[Personal Portfolio Website](https://github.com/divyanshu1004/portfolio)** — A fully responsive portfolio showcasing my work.
 - 📦 **[React Note App](https://github.com/divyanshu1004/note-app)** — Lightweight notes app using React and LocalStorage.
 
 ## 📈 GitHub Stats
