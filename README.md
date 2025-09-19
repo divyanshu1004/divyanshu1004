@@ -4,7 +4,6 @@
 
 > Passionate about building innovative solutions with modern technologies and exploring the decentralized web.
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=divyanshu1004&icon=0&color=0)](https://visitcount.itsvg.in)
 [![GitHub followers](https://img.shields.io/github/followers/divyanshu1004?label=Follow&style=social)](https://github.com/divyanshu1004)
 
 ---
