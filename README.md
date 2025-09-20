@@ -50,12 +50,6 @@
 - Built with **Python**, **NLP libraries**, and **Trie algorithms**
 - Improved study efficiency by 60% for competitive programmers
 
-### 📦 React Note App  
-**Minimalist notes application with local storage**
-- Clean, responsive UI built with **React** and **CSS**
-- Persistent data storage using **LocalStorage**
-- Features: Create, edit, delete, and search notes
-
 ### 🔗 Student Management System
 **Full-featured student data management solution**
 - **Python** backend with **MySQL** database integration
