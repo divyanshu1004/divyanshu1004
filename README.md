@@ -72,7 +72,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu1004&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshu1004&theme=radical)
+
 
 </div>
 
