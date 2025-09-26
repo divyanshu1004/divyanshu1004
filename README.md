@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divyanshu Rawat
 
-**Full Stack Developer** | **Blockchain Enthusiast**| **AI Enthusiast** | **Problem Solver**
+**Full Stack Developer** | **AI Enthusiast** | **Problem Solver**
 
 > Passionate about building innovative solutions with modern technologies and exploring the decentralized web.
 
