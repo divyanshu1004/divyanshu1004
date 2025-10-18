@@ -10,9 +10,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **AI-powered applications** and **blockchain projects**
 - 🌱 Learning **TypeScript**, **Advanced DSA**, and **Cloud Technologies**  
-- 💡 Interested in **Web3**, **Machine Learning**, and **System Design**
+- 💡 Interested in **Development** **Machine Learning**, and **System Design**
 - 👥 Open to collaborating on **innovative projects** and **open source**
 - 📫 Reach me at: **vedi05962@gmail.com**
 
