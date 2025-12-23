@@ -1,108 +1,24 @@
-# 👋 Hi, I'm Divyanshu Rawat
+# 💫 About Me:
+### Hi, I'm Divyanshu! 👋<br><br>I sit at the intersection of AI, Web3, and Full-Stack development. I love building apps that can think (ML) and apps that can't be censored (Blockchain).<br><br>- 🔭 **I’m currently working on** refining deep learning models for financial forecasting in my **Stock Market Predictor**.<br>- 👯 **I’m looking to collaborate on** projects involving **GenAI wrappers** or **Decentralized Applications (DApps)**.<br>- 🤝 **I’m looking for help with** optimizing gas fees in complex **Solidity** contracts.<br>- 🌱 **I’m currently learning** advanced **LSTM architectures** and how to fine-tune LLMs for specific use cases.<br>- 💬 **Ask me about** building custom chatbots with OpenAI's API or deploying voting systems on the blockchain.<br>- ⚡ **Fun fact:** I built an AI stock predictor, but I still hesitate to buy a coffee without checking my budget app 3 times. ☕
 
-**Full Stack Developer** | **AI Enthusiast** | **Problem Solver**
 
-> Passionate about building innovative solutions with modern technologies and exploring the decentralized web.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EhwdvE7C) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu3001) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/divyansh_u01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedi05962@gmail.com) 
 
-[![GitHub followers](https://img.shields.io/github/followers/divyanshu1004?label=Follow&style=social)](https://github.com/divyanshu1004)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=divyanshu1004&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=divyanshu1004&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu1004&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=divyanshu1004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 About Me
-
-- 🌱 Learning **TypeScript**, **Advanced DSA**, and **Cloud Technologies**  
-- 💡 Interested in **Development** **Machine Learning**, and **System Design**
-- 👥 Open to collaborating on **innovative projects** and **open source**
-- 📫 Reach me at: **vedi05962@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend & Backend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=divyanshu1004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 Featured Projects
-
-### 🎯 AI-Based Auto Tagging System
-**Smart DSA notes organizer using NLP and Trie data structure**
-- Automatically categorizes and tags data structure problems
-- Built with **Python**, **NLP libraries**, and **Trie algorithms**
-- Improved study efficiency by 60% for competitive programmers
-
-### 🔗 Student Management System
-**Full-featured student data management solution**
-- **Python** backend with **MySQL** database integration
-- Menu-driven interface for CRUD operations
-- Role-based access control and data validation
-
-### ⚡ Ethereum Smart Contracts
-**Complete ETH + AVAX blockchain development course**
-- Smart contract development using **Solidity**
-- DeFi protocols and token implementations
-- Gas optimization and security best practices
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Divyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshu1004&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu1004&layout=compact&theme=radical)
-
-
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔥 **Building**: Full-stack web applications with modern frameworks
-- 📚 **Learning**: Advanced TypeScript patterns and system design
-- 🌐 **Exploring**: Web3 technologies and decentralized applications
-- ☁️ **Studying**: AWS/GCP cloud architecture and DevOps practices
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshu-rawat)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/divyanshu_dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedi05962@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divyanshu-sand.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-  
-### ⭐ Don't forget to star repositories that interest you!
-
-*"Code is poetry written in logic"*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
